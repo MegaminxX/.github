@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://www.megaminxx.com/_files/ugd/placeholderlogo.png" alt="MegaminxX Logo" width="140"/>
-</p>
-
 <h1 align="center">MegaminxX</h1>
 <p align="center"><b>Data Infrastructure • Applied BI/AI • Advanced Analytics</b></p>
 
