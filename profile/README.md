@@ -16,17 +16,19 @@ Our name, **MegaminxX**, draws inspiration from the Megaminx puzzle — reflecti
 ## 🚀 What We Do
 
 ### **Data Platform Modernization**
-Modern, scalable, and AI-ready data platforms (Microsoft Fabric, Azure Databricks, cloud-native modernization, governance architecture).
+Modern, scalable, and AI-ready data platforms.
 
-### **Applied BI & AI**
-Actionable dashboards, AI-assisted insights, predictive models, and automation across business operations.
+### **Applied Business Intelligence**
+Actionable dashboards and AI-enhanced self-service tools.
 
 ### **Advanced Analytics**
-Statistical modeling, forecasting, optimization, and prescriptive analytics tailored to industry needs.
+Predictive and prescriptive analytics powered by AI.
 
 ### **Finance Transformation**
-Modern FP&A, automated reporting, real-time financial insights, and M&A data integration.
+Modern FP&A, automated reporting, real-time financial insights.
 
+### **M&A Data Integration**
+Unified systems to accelerate synergy realization.
 
 ---
 
