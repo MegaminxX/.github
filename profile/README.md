@@ -27,8 +27,6 @@ Statistical modeling, forecasting, optimization, and prescriptive analytics tail
 ### **Finance Transformation**
 Modern FP&A, automated reporting, real-time financial insights, and M&A data integration.
 
-### **Data & AI Talent Solutions**
-Flexible staffing for specialized technical and functional roles across data engineering, analytics, AI, and architecture.
 
 ---
 
@@ -36,36 +34,22 @@ Flexible staffing for specialized technical and functional roles across data eng
 
 - Deep expertise in data infrastructure and applied analytics  
 - Industry experience across Retail, Consumer Goods, Healthcare, and more  
-- Strong partner alignment with **Microsoft Fabric** and **Azure Databricks**  
+- Strong partner alignment with Microsoft Fabric and Databricks
 - Proven frameworks that unify data, reduce cost, and accelerate AI adoption  
 - A structured, business-first approach rooted in clarity and measurable impact  
 
 ---
 
-## 🔗 Featured Platforms
+## 📚 Connect with Us
 
-- **Microsoft Fabric**  
-  https://www.megaminxx.com/solutions/microsoft-fabric
-
-- **Azure Databricks**  
-  https://www.megaminxx.com/solutions/azure-databricks
-
----
-
-## 📚 Resources & Solutions
-
-- Retail & CPG Fabric eBook  
-  https://www.megaminxx.com/solutions/microsoft-fabric/retail-ebook
-
-- Connect with us  
-  https://www.megaminxx.com/connect
+https://www.megaminxx.com/connect
 
 ---
 
 ## 📬 Contact
 
 **MegaminxX LLC**  
-United States  
+NYC metro area, United States  
 contact@megaminxx.com  
 https://www.megaminxx.com
 
